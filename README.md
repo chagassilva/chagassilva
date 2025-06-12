@@ -5,6 +5,19 @@ Sou formado em **Gestão de TI** e tenho uma **Pós-graduação em Desenvolvimen
 Atualmente estou **em busca de novas oportunidades** na área de desenvolvimento e sigo me aperfeiçoando com cursos e projetos práticos.
 
 
+### 🧠 Formação & Destaques
+
+📚 **Formação Acadêmica**
+- 🎓 Graduação em **Gestão da Tecnologia da Informação**
+- 🎓 Pós-graduação em **Desenvolvimento Full Stack**
+
+🚀 **Cursos & Capacitações**
+- 💻 **DevClub** – Formação completa em desenvolvimento web
+- 🧠 **Hashtag Treinamentos** – Foco em projetos práticos e tecnologia aplicada
+
+🛠️ **Projetos em Destaque**
+- 🍔 **DevBurger** – Hamburgueria moderna desenvolvida com **React + Vite**
+
 
 ### 🤖 Linguagens e Tecnologias
 
