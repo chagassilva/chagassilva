@@ -1,4 +1,9 @@
-## Chagas 👋
+## Olá! Me chamo chagas 👋
+
+Sou formado em **Gestão de TI** e tenho uma **Pós-graduação em Desenvolvimento Full Stack**. Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interfaces modernas, funcionais e com boa experiência para o usuário.
+
+Atualmente estou **em busca de novas oportunidades** na área de desenvolvimento e sigo me aperfeiçoando com cursos e projetos práticos.
+
 
 
 ### 🤖 Linguagens e Tecnologias
